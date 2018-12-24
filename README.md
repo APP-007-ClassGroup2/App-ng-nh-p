@@ -1,2 +1,2 @@
-# App-ng-nh-p
-Ứng dụng cho phép đăng nhập và đăng ký
+# Appolication Sign In/ Sign Up
+Cho phép người dùng đăng nhập hoặc đăng ký
